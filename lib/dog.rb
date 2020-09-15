@@ -1,5 +1,5 @@
 class Dog 
-  def breed 
+  def name  
     
   end 
 
